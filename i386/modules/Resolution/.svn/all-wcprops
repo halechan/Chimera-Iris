@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2250/branches/Chimera/i386/modules/Resolution
+END
+915resolution.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2250/branches/Chimera/i386/modules/Resolution/915resolution.c
+END
+shortatombios.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2250/branches/Chimera/i386/modules/Resolution/shortatombios.h
+END
+Resolution.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2250/branches/Chimera/i386/modules/Resolution/Resolution.c
+END
+edid.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2250/branches/Chimera/i386/modules/Resolution/edid.c
+END
+915resolution.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2250/branches/Chimera/i386/modules/Resolution/915resolution.h
+END
+Cconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2250/branches/Chimera/i386/modules/Resolution/Cconfig
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2250/branches/Chimera/i386/modules/Resolution/Readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2250/branches/Chimera/i386/modules/Resolution/Makefile
+END

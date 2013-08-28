@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386
+END
+processor_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/processor_info.h
+END
+thread_act.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/thread_act.h
+END
+kern_return.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/kern_return.h
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/exception.h
+END
+ndr_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/ndr_def.h
+END
+vm_param.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/vm_param.h
+END
+task.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/task.h
+END
+fp_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/fp_reg.h
+END
+_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/_structs.h
+END
+vm_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/vm_types.h
+END
+thread_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/thread_state.h
+END
+thread_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/thread_status.h
+END
+boolean.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/boolean.h
+END
+asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/asm.h
+END
+machine_types.defs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/machine_types.defs
+END
+rpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/rpc.h
+END
+sdt_isa.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/i386/sdt_isa.h
+END

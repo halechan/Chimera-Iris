@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/ufs/ffs
+END
+ffs_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/ufs/ffs/ffs_extern.h
+END
+fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/ufs/ffs/fs.h
+END

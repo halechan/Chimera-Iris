@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture
+END
+alignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/alignment.h
+END
+byte_order.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/byte_order.h
+END

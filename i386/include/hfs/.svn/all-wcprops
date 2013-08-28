@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/hfs
+END
+hfs_encodings.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/hfs/hfs_encodings.h
+END
+hfs_mount.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/hfs/hfs_mount.h
+END
+hfs_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/hfs/hfs_format.h
+END

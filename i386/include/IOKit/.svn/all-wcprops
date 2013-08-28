@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit
+END
+IOTimeStamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOTimeStamp.h
+END
+IOSyncer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOSyncer.h
+END
+IOTimerEventSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOTimerEventSource.h
+END
+IODataQueueShared.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IODataQueueShared.h
+END
+IOMemoryCursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOMemoryCursor.h
+END
+IOLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOLib.h
+END
+IOCommandPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOCommandPool.h
+END
+IOBSD.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOBSD.h
+END
+IOLocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOLocks.h
+END
+IOWorkLoop.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOWorkLoop.h
+END
+IOPlatformExpert.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOPlatformExpert.h
+END
+IODeviceTreeSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IODeviceTreeSupport.h
+END
+IOUserClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOUserClient.h
+END
+IOKitServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOKitServer.h
+END
+IOCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOCommand.h
+END
+IODataQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IODataQueue.h
+END
+IOReturn.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOReturn.h
+END
+IOInterrupts.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOInterrupts.h
+END
+IOMultiMemoryDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOMultiMemoryDescriptor.h
+END
+IODMAEventSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IODMAEventSource.h
+END
+IORegistryEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IORegistryEntry.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/system.h
+END
+IORangeAllocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IORangeAllocator.h
+END
+IOConditionLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOConditionLock.h
+END
+IOInterruptController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOInterruptController.h
+END
+IOService.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOService.h
+END
+IOBufferMemoryDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOBufferMemoryDescriptor.h
+END
+IOEventSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOEventSource.h
+END
+IOCatalogue.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOCatalogue.h
+END
+IOTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOTypes.h
+END
+IODMAController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IODMAController.h
+END
+IOSharedDataQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOSharedDataQueue.h
+END
+OSMessageNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/OSMessageNotification.h
+END
+IOMemoryDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOMemoryDescriptor.h
+END
+assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/assert.h
+END
+IOCommandGate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOCommandGate.h
+END
+IOSharedLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOSharedLock.h
+END
+IOInterruptEventSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOInterruptEventSource.h
+END
+IONotifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IONotifier.h
+END
+IOSubMemoryDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOSubMemoryDescriptor.h
+END
+IOKitKeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOKitKeys.h
+END
+IONVRAM.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IONVRAM.h
+END
+IOMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOMessage.h
+END
+IOMapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOMapper.h
+END
+IOFilterInterruptEventSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOFilterInterruptEventSource.h
+END
+IODeviceMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IODeviceMemory.h
+END
+IOInterleavedMemoryDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOInterleavedMemoryDescriptor.h
+END
+IOServicePM.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOServicePM.h
+END
+IOKitDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IOKitDebug.h
+END
+IODMACommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/IODMACommand.h
+END

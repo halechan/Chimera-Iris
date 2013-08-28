@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lxdialog
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lxdialog/.gitignore
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lxdialog/dialog.h
+END
+check-lxdialog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lxdialog/check-lxdialog.sh
+END
+inputbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lxdialog/inputbox.c
+END
+checklist.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lxdialog/checklist.c
+END
+BIG.FAT.WARNING
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lxdialog/BIG.FAT.WARNING
+END
+menubox.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lxdialog/menubox.c
+END
+textbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lxdialog/textbox.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lxdialog/util.c
+END
+yesno.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lxdialog/yesno.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/libkern
+END
+OSAtomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/libkern/OSAtomic.h
+END
+_OSByteOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/libkern/_OSByteOrder.h
+END
+OSByteOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/libkern/OSByteOrder.h
+END
+OSReturn.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/libkern/OSReturn.h
+END
+OSKextLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/libkern/OSKextLib.h
+END
+OSCacheControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/libkern/OSCacheControl.h
+END
+OSTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/libkern/OSTypes.h
+END
+OSDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/libkern/OSDebug.h
+END

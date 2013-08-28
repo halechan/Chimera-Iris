@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/bluetooth
+END
+IOBluetoothHCIRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/bluetooth/IOBluetoothHCIRequest.h
+END
+IOBluetoothInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/bluetooth/IOBluetoothInternal.h
+END
+IOBluetoothHIDDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/bluetooth/IOBluetoothHIDDriver.h
+END
+BluetoothAssignedNumbers.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/bluetooth/BluetoothAssignedNumbers.h
+END
+IOBluetoothTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/bluetooth/IOBluetoothTypes.h
+END
+IOBluetoothHIDDriverTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/bluetooth/IOBluetoothHIDDriverTypes.h
+END
+Bluetooth.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/bluetooth/Bluetooth.h
+END
+IOBluetoothHCIController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/bluetooth/IOBluetoothHCIController.h
+END

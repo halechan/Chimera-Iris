@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/acpi
+END
+IOACPIPlatformDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/acpi/IOACPIPlatformDevice.h
+END
+IOACPITypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/acpi/IOACPITypes.h
+END
+IOACPIPlatformExpert.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/acpi/IOACPIPlatformExpert.h
+END

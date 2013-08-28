@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata
+END
+ATATimerEventSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/ATATimerEventSource.h
+END
+IOPCIATA.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/IOPCIATA.h
+END
+ATADeviceNub.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/ATADeviceNub.h
+END
+IOATACommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/IOATACommand.h
+END
+IOATADevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/IOATADevice.h
+END
+MacIOATA.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/MacIOATA.h
+END
+IOATAController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/IOATAController.h
+END
+IOATADevConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/IOATADevConfig.h
+END
+IOATATypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/IOATATypes.h
+END
+IOATABusInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/IOATABusInfo.h
+END
+IOATARegI386.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/IOATARegI386.h
+END
+IOATABusCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/ata/IOATABusCommand.h
+END

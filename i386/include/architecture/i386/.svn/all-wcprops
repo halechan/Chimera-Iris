@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386
+END
+math.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/math.h
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/frame.h
+END
+fpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/fpu.h
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/fenv.h
+END
+byte_order.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/byte_order.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/io.h
+END
+tss.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/tss.h
+END
+desc.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/desc.h
+END
+alignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/alignment.h
+END
+sel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/sel.h
+END
+reg_help.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/reg_help.h
+END
+table.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/table.h
+END
+pio.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/pio.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/cpu.h
+END
+asm_help.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/architecture/i386/asm_help.h
+END

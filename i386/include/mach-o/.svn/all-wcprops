@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o
+END
+nlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/nlist.h
+END
+stab.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/stab.h
+END
+fat.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/fat.h
+END
+swap.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/swap.h
+END
+ldsyms.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/ldsyms.h
+END
+dyld.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/dyld.h
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/arch.h
+END
+getsect.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/getsect.h
+END
+compact_unwind_encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/compact_unwind_encoding.h
+END
+dyld_images.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/dyld_images.h
+END
+reloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/reloc.h
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/loader.h
+END
+ranlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach-o/ranlib.h
+END

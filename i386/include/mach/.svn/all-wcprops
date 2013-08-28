@@ -1,0 +1,617 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach
+END
+kmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/kmod.h
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/clock.h
+END
+ledger.defs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/ledger.defs
+END
+task.defs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/task.defs
+END
+thread_act.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/thread_act.h
+END
+policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/policy.h
+END
+mach_host.defs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_host.defs
+END
+security.defs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/security.defs
+END
+clock_reply.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/clock_reply.h
+END
+vm_map.defs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_map.defs
+END
+port_obj.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/port_obj.h
+END
+vm_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_map.h
+END
+mach_traps.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_traps.h
+END
+task_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/task_policy.h
+END
+memory_object_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/memory_object_types.h
+END
+exception_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/exception_types.h
+END
+ndr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/ndr.h
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/message.h
+END
+vm_prot.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_prot.h
+END
+mach_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_interface.h
+END
+thread_act.defs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/thread_act.defs
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/error.h
+END
+task_special_ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/task_special_ports.h
+END
+sdt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/sdt.h
+END
+mach_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_init.h
+END
+host_security.defs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/host_security.defs
+END
+clock_reply.defs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/clock_reply.defs
+END
+host_special_ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/host_special_ports.h
+END
+vm_inherit.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_inherit.h
+END
+mig_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mig_errors.h
+END
+mach.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach.h
+END
+mig.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mig.h
+END
+bootstrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/bootstrap.h
+END
+host_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/host_priv.h
+END
+task_access.defs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/task_access.defs
+END
+task_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/task_info.h
+END
+mach_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_error.h
+END
+clock_priv.defs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/clock_priv.defs
+END
+vm_region.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_region.h
+END
+mach_types.defs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_types.defs
+END
+mach_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_time.h
+END
+host_reboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/host_reboot.h
+END
+mach_param.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_param.h
+END
+processor_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/processor_info.h
+END
+processor_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/processor_set.h
+END
+time_value.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/time_value.h
+END
+clock_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/clock_priv.h
+END
+vm_statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_statistics.h
+END
+lock_set.defs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/lock_set.defs
+END
+notify.defs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/notify.defs
+END
+vm_param.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_param.h
+END
+lock_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/lock_set.h
+END
+machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/machine.h
+END
+host_security.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/host_security.h
+END
+vm_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_task.h
+END
+mach_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_host.h
+END
+mach_port.defs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_port.defs
+END
+processor.defs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/processor.defs
+END
+exc.defs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/exc.defs
+END
+thread_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/thread_status.h
+END
+mach_vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_vm.h
+END
+host_notify_reply.defs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/host_notify_reply.defs
+END
+vm_sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_sync.h
+END
+std_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/std_types.h
+END
+processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/processor.h
+END
+exc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/exc.h
+END
+thread_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/thread_info.h
+END
+semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/semaphore.h
+END
+port.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/port.h
+END
+processor_set.defs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/processor_set.defs
+END
+rpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/rpc.h
+END
+shared_memory_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/shared_memory_server.h
+END
+host_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/host_info.h
+END
+sync_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/sync_policy.h
+END
+mach_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_types.h
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/exception.h
+END
+kern_return.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/kern_return.h
+END
+thread_special_ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/thread_special_ports.h
+END
+mach_exc.defs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_exc.defs
+END
+vm_behavior.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_behavior.h
+END
+ledger.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/ledger.h
+END
+task.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/task.h
+END
+vm_purgable.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_purgable.h
+END
+mach_vm.defs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_vm.defs
+END
+host_notify.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/host_notify.h
+END
+audit_triggers.defs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/audit_triggers.defs
+END
+vm_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_types.h
+END
+host_priv.defs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/host_priv.defs
+END
+notify.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/notify.h
+END
+std_types.defs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/std_types.defs
+END
+clock_types.defs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/clock_types.defs
+END
+shared_region.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/shared_region.h
+END
+mach_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_port.h
+END
+sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/sync.h
+END
+clock_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/clock_types.h
+END
+boolean.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/boolean.h
+END
+task_ledger.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/task_ledger.h
+END
+mach_syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/mach_syscalls.h
+END
+clock.defs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/clock.defs
+END
+thread_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/thread_policy.h
+END
+thread_switch.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/thread_switch.h
+END
+vm_attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/mach/vm_attributes.h
+END

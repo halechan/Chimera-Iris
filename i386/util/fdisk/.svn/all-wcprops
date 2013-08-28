@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk
+END
+disk.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/disk.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/misc.h
+END
+fdisk.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/fdisk.c
+END
+opendev.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/opendev.c
+END
+cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/cmd.c
+END
+part.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/part.c
+END
+cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/cmd.h
+END
+auto.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/auto.c
+END
+part.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/part.h
+END
+auto.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/auto.h
+END
+user.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/user.c
+END
+mbrcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/mbrcode.h
+END
+mbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/mbr.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/util.h
+END
+getrawpartition.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/getrawpartition.c
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/user.h
+END
+mbr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/mbr.h
+END
+fdisk.8
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/fdisk.8
+END
+Cconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/Cconfig
+END
+disk.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/disk.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/misc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/util/fdisk/Makefile
+END

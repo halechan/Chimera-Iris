@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a
+END
+Html.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Html.pm
+END
+Man.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Man.pm
+END
+Texinfo.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Texinfo.pm
+END
+LaTeX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/LaTeX.pm
+END
+BibTeX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/BibTeX.pm
+END
+Po.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Po.pm
+END
+NewsDebian.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/NewsDebian.pm
+END
+Ini.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Ini.pm
+END
+Docbook.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Docbook.pm
+END
+Prop.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Prop.pm
+END
+Pod.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Pod.pm
+END
+Text.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Text.pm
+END
+TransTractor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/TransTractor.pm
+END
+Halibut.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Halibut.pm
+END
+Common.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Common.pm
+END
+KernelHelp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/KernelHelp.pm
+END
+Xhtml.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Xhtml.pm
+END
+Guide.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Guide.pm
+END
+Dia.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Dia.pm
+END
+Wml.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Wml.pm
+END
+Debconf.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Debconf.pm
+END
+TeX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/TeX.pm
+END
+Xml.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Xml.pm
+END
+Chooser.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Chooser.pm
+END
+Sgml.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/bin/po4a/lib/Locale/Po4a/Sgml.pm
+END

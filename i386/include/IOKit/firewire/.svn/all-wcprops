@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire
+END
+IOFWCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWCommand.h
+END
+IOFireWireMultiIsochReceive.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFireWireMultiIsochReceive.h
+END
+IOFWLocalIsochPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWLocalIsochPort.h
+END
+IOFireWirePowerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFireWirePowerManager.h
+END
+IOFWSimpleContiguousPhysicalAddressSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWSimpleContiguousPhysicalAddressSpace.h
+END
+IOFireWireFamilyCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFireWireFamilyCommon.h
+END
+IOFWDCLProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWDCLProgram.h
+END
+IOConfigDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOConfigDirectory.h
+END
+IOFireWireLocalNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFireWireLocalNode.h
+END
+IOFWUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWUtils.h
+END
+IOFWRegs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWRegs.h
+END
+IOFWAddressSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWAddressSpace.h
+END
+IOFWSyncer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWSyncer.h
+END
+IOLocalConfigDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOLocalConfigDirectory.h
+END
+IOFWSimplePhysicalAddressSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWSimplePhysicalAddressSpace.h
+END
+IORemoteConfigDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IORemoteConfigDirectory.h
+END
+IOFWIsochPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWIsochPort.h
+END
+IOFWDCLTranslator.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWDCLTranslator.h
+END
+IOFireWireUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFireWireUnit.h
+END
+IOFWPseudoAddressSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWPseudoAddressSpace.h
+END
+IOFireWireController.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFireWireController.h
+END
+IOFireWireNub.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFireWireNub.h
+END
+IOFireWireBus.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFireWireBus.h
+END
+IOFWDCLPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWDCLPool.h
+END
+IOFireWireIRMAllocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFireWireIRMAllocation.h
+END
+IOFWUserObjectExporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWUserObjectExporter.h
+END
+IOFWIsochChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWIsochChannel.h
+END
+IOFWPHYPacketListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWPHYPacketListener.h
+END
+IOFWPhysicalAddressSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWPhysicalAddressSpace.h
+END
+IOFireWireDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFireWireDevice.h
+END
+IOFWAsyncStreamListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWAsyncStreamListener.h
+END
+IOFWDCL.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/firewire/IOFWDCL.h
+END

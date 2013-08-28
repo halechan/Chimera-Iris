@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/klibc
+END
+strlcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/klibc/strlcpy.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/klibc/LICENSE
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/klibc/Makefile
+END

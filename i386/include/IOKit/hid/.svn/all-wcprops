@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/hid
+END
+IOHIDDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/hid/IOHIDDevice.h
+END
+IOHIDUsageTables.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/hid/IOHIDUsageTables.h
+END
+IOHIDInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/hid/IOHIDInterface.h
+END
+IOHIDElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/hid/IOHIDElement.h
+END
+IOHIDKeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/hid/IOHIDKeys.h
+END

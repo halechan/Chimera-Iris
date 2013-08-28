@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/OptionalSettings
+END
+Resolution.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/OptionalSettings/Resolution.txt
+END
+Video.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/OptionalSettings/Video.txt
+END
+PowerManagement.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/OptionalSettings/PowerManagement.txt
+END
+General.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/OptionalSettings/General.txt
+END
+KernelFlags.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/OptionalSettings/KernelFlags.txt
+END
+Control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/OptionalSettings/Control.txt
+END

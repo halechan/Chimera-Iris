@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include
+END
+math.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/math.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/time.h
+END
+locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/locale.h
+END
+assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/assert.h
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/limits.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/setjmp.h
+END
+_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/_types.h
+END
+unwind.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/unwind.h
+END
+float.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/float.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/stdint.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/string.h
+END
+_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/_structs.h
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/unistd.h
+END
+stdbool.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/stdbool.h
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/stddef.h
+END
+runetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/runetype.h
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/signal.h
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/inttypes.h
+END
+stdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/stdlib.h
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/stdio.h
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/stdarg.h
+END
+ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/ctype.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/errno.h
+END

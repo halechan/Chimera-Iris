@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/Scripts.templates/AddOption
+END
+postinstall
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/Scripts.templates/AddOption/postinstall
+END

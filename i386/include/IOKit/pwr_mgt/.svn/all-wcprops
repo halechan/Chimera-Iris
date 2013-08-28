@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/pwr_mgt
+END
+RootDomain.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/pwr_mgt/RootDomain.h
+END
+IOPMLibDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/pwr_mgt/IOPMLibDefs.h
+END
+IOPMPowerSourceList.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/pwr_mgt/IOPMPowerSourceList.h
+END
+IOPMPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/pwr_mgt/IOPMPrivate.h
+END
+IOPMPowerSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/pwr_mgt/IOPMPowerSource.h
+END
+IOPMpowerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/pwr_mgt/IOPMpowerState.h
+END
+IOPM.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/pwr_mgt/IOPM.h
+END
+IOPowerConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/pwr_mgt/IOPowerConnection.h
+END
+IOPMDeprecated.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/pwr_mgt/IOPMDeprecated.h
+END

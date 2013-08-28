@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/platform
+END
+AppleMacIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/platform/AppleMacIO.h
+END
+AppleMacIODevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/platform/AppleMacIODevice.h
+END
+ApplePlatformExpert.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/platform/ApplePlatformExpert.h
+END
+AppleNMI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/platform/AppleNMI.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/Scripts.templates/Pre
+END
+clean_bootplist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/Scripts.templates/Pre/clean_bootplist.pl
+END
+preinstall
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/2225/branches/Chimera/package/Scripts.templates/Pre/preinstall
+END

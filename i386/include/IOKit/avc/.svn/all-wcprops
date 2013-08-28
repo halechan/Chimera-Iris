@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/avc
+END
+IOFireWireAVCCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/avc/IOFireWireAVCCommand.h
+END
+IOFireWireAVCUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/avc/IOFireWireAVCUnit.h
+END
+IOFireWireAVCTargetSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/avc/IOFireWireAVCTargetSpace.h
+END
+IOFireWireAVCRequestSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/avc/IOFireWireAVCRequestSpace.h
+END
+IOFireWireAVCUserClientCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/avc/IOFireWireAVCUserClientCommon.h
+END
+IOFireWirePCRSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/avc/IOFireWirePCRSpace.h
+END
+IOFireWireAVCConsts.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/avc/IOFireWireAVCConsts.h
+END

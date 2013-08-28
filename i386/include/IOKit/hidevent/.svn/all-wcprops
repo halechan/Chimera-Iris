@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/hidevent
+END
+IOHIDEventDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/hidevent/IOHIDEventDriver.h
+END
+IOHIDEventService.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/hidevent/IOHIDEventService.h
+END

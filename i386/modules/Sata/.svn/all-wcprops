@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/Sata
+END
+Cconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/Sata/Cconfig
+END
+Sata.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/Sata/Sata.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/Sata/Makefile
+END

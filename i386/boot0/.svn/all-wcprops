@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/boot0
+END
+chain0.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/boot0/chain0.s
+END
+boot0.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/boot0/boot0.s
+END
+boot0hfs.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/boot0/boot0hfs.s
+END
+boot0md.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/boot0/boot0md.s
+END
+Cconfig
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/boot0/Cconfig
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/boot0/Makefile
+END

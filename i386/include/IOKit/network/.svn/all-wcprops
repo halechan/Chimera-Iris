@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network
+END
+IOEthernetController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IOEthernetController.h
+END
+IONetworkData.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IONetworkData.h
+END
+IOKernelDebugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IOKernelDebugger.h
+END
+IOOutputQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IOOutputQueue.h
+END
+IOBasicOutputQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IOBasicOutputQueue.h
+END
+IONetworkStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IONetworkStats.h
+END
+IOGatedOutputQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IOGatedOutputQueue.h
+END
+IONetworkInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IONetworkInterface.h
+END
+IONetworkMedium.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IONetworkMedium.h
+END
+IOPacketQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IOPacketQueue.h
+END
+IOEthernetStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IOEthernetStats.h
+END
+IONetworkController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IONetworkController.h
+END
+IOEthernetInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IOEthernetInterface.h
+END
+IOMbufMemoryCursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/include/IOKit/network/IOMbufMemoryCursor.h
+END

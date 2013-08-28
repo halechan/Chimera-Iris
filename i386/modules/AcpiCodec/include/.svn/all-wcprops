@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/AcpiCodec/include
+END
+acpi_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/AcpiCodec/include/acpi_codec.h
+END
+datatype.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/AcpiCodec/include/datatype.h
+END
+acpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/AcpiCodec/include/acpi.h
+END
+acpi_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/AcpiCodec/include/acpi_tools.h
+END
+ppm.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/AcpiCodec/include/ppm.h
+END
+ppmsetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/AcpiCodec/include/ppmsetup.h
+END
+acpidecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/AcpiCodec/include/acpidecode.h
+END
+acpicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/AcpiCodec/include/acpicode.h
+END
+intel_acpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/modules/AcpiCodec/include/intel_acpi.h
+END

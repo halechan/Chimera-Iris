@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config
+END
+lkc_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lkc_proto.h
+END
+zconf.hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/zconf.hash.c
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/menu.c
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/dialog.h
+END
+symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/symbol.c
+END
+lex.zconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lex.zconf.c
+END
+nconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/nconf.h
+END
+inputbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/inputbox.c
+END
+cconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/cconfig.c
+END
+checklist.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/checklist.c
+END
+menubox.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/menubox.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/util.c
+END
+lkc.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/lkc.h
+END
+expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/expr.c
+END
+confdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/confdata.c
+END
+expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/expr.h
+END
+zconf.tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/zconf.tab.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/Makefile
+END
+textbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/textbox.c
+END
+yesno.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chameleon/!svn/ver/2225/branches/Chimera/i386/config/yesno.c
+END
