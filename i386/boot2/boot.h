@@ -117,6 +117,9 @@
 #define kDcfg0				"display_0"			/* nvidia.c */
 #define kDcfg1				"display_1"			/* nvidia.c */
 
+#define kIrisPlatformID     "IrisPlatformID"    /* gma.c */
+#define kIrisEnabler        "IrisEnabler"       /* pci_setup.c */
+
 #define kEthernetBuiltIn	"EthernetBuiltIn"	/* pci_setup.c */
 #define kGraphicsEnabler	"GraphicsEnabler"	/* pci_setup.c */
 #define kEnableHDMIAudio	"EnableHDMIAudio"	/*ati.c && nvidia.c */

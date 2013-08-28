@@ -18,6 +18,7 @@ void setup_pci_devs(pci_dt_t *pci_dt)
 {
 	char *devicepath;
 	bool do_eth_devprop, do_gfx_devprop, do_enable_hpet;
+    bool do_iris_devprop;
 	pci_dt_t *current = pci_dt;
 
 	do_eth_devprop = do_gfx_devprop = do_enable_hpet = false;
@@ -25,6 +26,7 @@ void setup_pci_devs(pci_dt_t *pci_dt)
 	getBoolForKey(kEthernetBuiltIn, &do_eth_devprop, &bootInfo->chameleonConfig);
 	getBoolForKey(kGraphicsEnabler, &do_gfx_devprop, &bootInfo->chameleonConfig);
 	getBoolForKey(kForceHPET, &do_enable_hpet, &bootInfo->chameleonConfig);
+    getBoolForKey(kIrisEnabler, &do_iris_devprop, &bootInfo->chameleonConfig);
 
 	while (current)
 	{
@@ -43,7 +45,9 @@ void setup_pci_devs(pci_dt_t *pci_dt)
 				break;
 				
 			case PCI_CLASS_DISPLAY_VGA:
+            {
 				if (do_gfx_devprop)
+                {
 					switch (current->vendor_id)
 					{
 						case PCI_VENDOR_ID_ATI:
@@ -58,6 +62,11 @@ void setup_pci_devs(pci_dt_t *pci_dt)
 							setup_nvidia_devprop(current);
 							break;
 					}
+                }
+                if(current->vendor_id == PCI_VENDOR_ID_INTEL && do_iris_devprop){
+                    setup_iris_devprop(current);
+                }
+            }
 				break;
 
 			case PCI_CLASS_SERIAL_USB:

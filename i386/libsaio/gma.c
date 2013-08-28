@@ -139,6 +139,17 @@ static struct gma_gpu_t KnownGPUS[] = {
     { 0x80860156, "Intel HD Graphics 2500 Mobile"	},
     { 0x80860162, "Intel HD Graphics 4000"			},
     { 0x80860166, "Intel HD Graphics 4000 Mobile"	},
+    { 0x80860c26, "Intel HD Graphics 5000 Mobile"},
+    { 0x80860c16, "Intel HD Graphics 4600 Mobile"},
+    { 0x80860c06, "Intel HD Graphics Mobile"},
+    { 0x80860d26, "Intel Iris Graphics 5100 Mobile"},
+    { 0x80860d22, "Intel Iris Graphics 5100"},
+    { 0x80860a26, "Intel HD Graphics 5000 Mobile"},
+    { 0x80860a16, "Intel HD Graphics 4400 Mobile"},
+    { 0x80860426, "Intel HD Graphics 5000 Mobile"},
+    { 0x80860416, "Intel HD Graphics 4600 Mobile"},
+    { 0x80860406, "Intel HD Graphics Mobile"},
+    { 0x80860412, "Intel HD Graphics 4600"},
 };
 
 char *get_gma_model(uint32_t id) {
@@ -307,6 +318,140 @@ bool setup_gma_devprop(pci_dt_t *gma_dev)
 		devprop_add_value(device, "hda-gfx", (uint8_t *)"onboard-1", 10);
 		devprop_add_value(device, "AAPL,ig-platform-id", ig_id_mobile, 4);
 	}
+    
+	stringdata = malloc(sizeof(uint8_t) * string->length);
+	if (!stringdata)
+	{
+		printf("No stringdata.\n");
+		pause();
+		return false;
+	}
+	
+	memcpy(stringdata, (uint8_t*)devprop_generate_string(string), string->length);
+	stringlength = string->length;
+	
+	return true;
+}
+
+uint8_t char_to_uint8(char x)
+{
+    uint8_t val = 0;
+    if (x >= '0' && x <='9') {
+        val = x - '0';
+    }
+    else if(x >= 'a' && x <= 'f'){
+        val = x - 'a' + 10;
+    }
+    else if(x >='A' && x<='F'){
+        val = x - 'A' + 10;
+    }
+    
+    return val;
+}
+
+bool setup_iris_devprop(pci_dt_t *gma_dev)
+{
+    char					*devicepath;
+	volatile uint8_t		*regs;
+	uint32_t				bar[7];
+	char					*model;
+	unsigned int			device_id;
+	uint8_t BuiltIn = 0x00;
+	uint8_t ClassFix[4] =           { 0x00, 0x00, 0x03, 0x00 };
+    uint8_t iris_device_id[4] =     { 0x12, 0x04, 0x00, 0x00 };
+    uint8_t ig_id[4] =              { 0x00, 0x00, 0x26, 0x0c };
+	
+	devicepath = get_pci_dev_path(gma_dev);
+	
+	bar[0] = pci_config_read32(gma_dev->dev.addr, 0x10);
+	regs = (uint8_t *) (bar[0] & ~0x0f);
+	
+	model = get_gma_model((gma_dev->vendor_id << 16) | gma_dev->device_id);
+	device_id = gma_dev->device_id;
+	
+	verbose("Intel %s [%04x:%04x] :: %s\n",
+			model, gma_dev->vendor_id, gma_dev->device_id, devicepath);
+	
+	if (!string)
+		string = devprop_create_string();
+	
+	struct DevPropDevice *device = malloc(sizeof(struct DevPropDevice));
+	device = devprop_add_device(string, devicepath);
+	
+	if (!device)
+	{
+		printf("Failed initializing dev-prop string dev-entry.\n");
+		pause();
+		return false;
+	}
+	
+	devprop_add_value(device, "model", (uint8_t*)model, (strlen(model) + 1));
+    
+    uint32_t gpu_id = (gma_dev->vendor_id << 16) | gma_dev->device_id;
+    switch (gpu_id) {
+        case 0x80860c26:{
+            iris_device_id[0] = 0x26;
+            iris_device_id[1] = 0x0c;
+        }
+        case 0x80860c16:{
+            iris_device_id[0] = 0x16;
+            iris_device_id[1] = 0x0c;
+        }
+        case 0x80860c06:{
+            iris_device_id[0] = 0x06;
+            iris_device_id[1] = 0x0c;
+        }
+        case 0x80860d26:{
+            iris_device_id[0] = 0x26;
+            iris_device_id[1] = 0x0d;
+        }
+        case 0x80860d22:{
+            iris_device_id[0] = 0x22;
+            iris_device_id[1] = 0x0d;
+        }
+        case 0x80860a26:{
+            iris_device_id[0] = 0x26;
+            iris_device_id[1] = 0x0a;
+        }
+        case 0x80860a16:{
+            iris_device_id[0] = 0x16;
+            iris_device_id[1] = 0x0a;
+        }
+        case 0x80860426:{
+            iris_device_id[0] = 0x26;
+            iris_device_id[1] = 0x04;
+        }
+        case 0x80860416:{
+            iris_device_id[0] = 0x16;
+            iris_device_id[1] = 0x04;
+        }
+        case 0x80860406:{
+            iris_device_id[0] = 0x06;
+            iris_device_id[1] = 0x04;
+        }
+        case 0x80860412:{
+            iris_device_id[0] = 0x12;
+            iris_device_id[1] = 0x04;
+            
+            devprop_add_value(device, "built-in", &BuiltIn, 1);
+            devprop_add_value(device, "class-code", ClassFix, 4);
+            devprop_add_value(device, "device-id", iris_device_id, 4);
+            devprop_add_value(device, "hda-gfx", (uint8_t *)"onboard-1", 10);
+            
+            const char *ig_platfrom_id = getStringForKey(kIrisPlatformID, &bootInfo->chameleonConfig);
+            if (strlen(ig_platfrom_id) == 10) {
+                for (int i=0; i<4; i++) {
+                    uint8_t v = 16 * char_to_uint8(ig_platfrom_id[2+i*2]) + char_to_uint8(ig_platfrom_id[3+i*2]);
+                    ig_id[i] = v;
+                }
+            }
+            printf("Using ig-platform-id:0x%x 0x%x 0x%x 0x%x\n", ig_id[0], ig_id[1], ig_id[2], ig_id[3]);
+            devprop_add_value(device, "AAPL,ig-platform-id", ig_id, 4);
+        }
+            break;
+        default:
+            break;
+    }
     
 	stringdata = malloc(sizeof(uint8_t) * string->length);
 	if (!stringdata)

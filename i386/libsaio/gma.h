@@ -2,6 +2,7 @@
 #define __LIBSAIO_GMA_H
 
 bool setup_gma_devprop(pci_dt_t *gma_dev);
+bool setup_iris_devprop(pci_dt_t *gma_dev);
 
 struct gma_gpu_t {
 	unsigned device;
