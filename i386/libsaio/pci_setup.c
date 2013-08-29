@@ -46,7 +46,10 @@ void setup_pci_devs(pci_dt_t *pci_dt)
 				
 			case PCI_CLASS_DISPLAY_VGA:
             {
-				if (do_gfx_devprop)
+                if(current->vendor_id == PCI_VENDOR_ID_INTEL && do_iris_devprop){
+                    setup_iris_devprop(current);
+                }
+				else if (do_gfx_devprop)
                 {
 					switch (current->vendor_id)
 					{
@@ -62,9 +65,6 @@ void setup_pci_devs(pci_dt_t *pci_dt)
 							setup_nvidia_devprop(current);
 							break;
 					}
-                }
-                if(current->vendor_id == PCI_VENDOR_ID_INTEL && do_iris_devprop){
-                    setup_iris_devprop(current);
                 }
             }
 				break;
